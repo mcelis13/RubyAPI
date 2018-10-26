@@ -1,3 +1,3 @@
 class RoomSerializer < ActiveModel::Serializer
-  attributes :id, :publisher_id, :subscriber_id
+  attributes :publisher_id, :subscriber_id
 end
